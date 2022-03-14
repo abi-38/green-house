@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'RalewayBold';
+    src: url('../assets/typo/Raleway-Bold.ttf') format('truetype');
+  }
+
+.Bouton-link {
+    color: white;
+    background-color: #31B472;
+    width: 220px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    font-family: 'RalewayBold', Arial, serif;
+}

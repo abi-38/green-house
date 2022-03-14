@@ -1,0 +1,20 @@
+.gh-cart-panier {
+    background-color: #31B472;
+    width: 20vw;
+    color: white;
+}
+
+.gh-cart-logo {
+    width: 5vw;
+    height: auto;
+
+}
+.gh-cart-plantList > li {
+    list-style: none;
+    margin-left: -30px;
+}
+
+.gh-cart-button {
+    background-color: white;
+    color: #31B472;
+}
